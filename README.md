@@ -51,3 +51,11 @@ However, the results were notably different for the UNSW-NB15 dataset. Here, LST
 In summary, LSTM emerged as the superior algorithm, providing the most accurate predictions in both datasets, showcasing its potential for effective anomaly detection and classification. Naive Bayes, while still competent, demonstrated variability in performance depending on the dataset, highlighting the need for careful algorithm selection based on the specific dataset characteristics.
 
 ![Logo](https://github.com/jboussouf/Advanced-anomaly-detection-Machine-learning-approaches/blob/main/media/c_matrex.png?raw=true)
+
+
+## Authors
+
+- [@jboussouf](https://github.com/jboussouf)
+
+- [@iseddik](https://github.com/iseddik)
+
